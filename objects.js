@@ -1,6 +1,6 @@
 var playlist = {
   Norah: "Come Away With Me",
-  Kanye: "Only One",
+  Kanye: "Gold Digger",
 };
 
 function updatePlaylist(playlist, artistName, songTitle) {
