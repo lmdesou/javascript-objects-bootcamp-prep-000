@@ -1,5 +1,4 @@
 var playlist = {
-  Norah: "Come Away With Me",
   Kanye: "Gold Digger",
 };
 
